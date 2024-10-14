@@ -41,17 +41,18 @@ If you have any questions or need assistance, feel free to join our **community 
 
 ## Settings
 
-| Option                      | Description (default values are provided, you can set your own)                       |
-|-----------------------------|---------------------------------------------------------------------------------------|
-| **API_ID / API_HASH**       | <small>Telegram platform credentials for starting the session</small>                 |
-| **REF_ID**                  | <small>Your referral link in the format `00001N6y`</small>                                                             |
-| **USE_RANDOM_DELAY_IN_RUN** | <small>Run the session with a random delay `True`, without delay `False`</small>      |
-| **RANDOM_DELAY_IN_RUN**     | <small>Random delay in the range `[0, 36000]`</small>                                 |
-| **AUTO_PLAY_GAME**          | <small>`True` or `False`</small>                                                      |
-| **AUTO_TASK**               | <small>`True` or `False`</small>                                                      |
-| **AUTO_DAILY_REWARD**       | <small>`True` or `False`</small>                                                      |
-| **AUTO_CLAIM_COMBO**        | <small>`True` or `False`</small>                                                      |
-| **AUTO_RANK_UPGRADE**       | <small>`True` or `False`</small>                                                      |
+| Option                      | Description (default values are provided, you can set your own)                     |
+|-----------------------------|-------------------------------------------------------------------------------------|
+| **API_ID / API_HASH**       | <small>Telegram platform credentials for starting the session</small>               |
+| **REF_ID**                  | <small>Your referral link in the format `00001N6y`</small>                          |
+| **USE_RANDOM_DELAY_IN_RUN** | <small>Run the session with a random delay `True`, without delay `False`</small>    |
+| **RANDOM_DELAY_IN_RUN**     | <small>Random delay in the range `[0, 36000]`</small>                               |
+| **POINTS_COUNT**            | <small>Points per game `[450, 600]`</small>                                         |
+| **AUTO_PLAY_GAME**          | <small>`True` or `False`</small>                                                    |
+| **AUTO_TASK**               | <small>`True` or `False`</small>                                                    |
+| **AUTO_DAILY_REWARD**       | <small>`True` or `False`</small>                                                    |
+| **AUTO_CLAIM_COMBO**        | <small>`True` or `False`</small>                                                    |
+| **AUTO_RANK_UPGRADE**       | <small>`True` or `False`</small>                                                    |
 | **SLEEP_TIME**              | <small>Time each session sleeps after completing all actions `[21000, 32000]`</small> |
 
 
