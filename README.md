@@ -53,6 +53,7 @@ If you have any questions or need assistance, feel free to join our **community 
 | **AUTO_DAILY_REWARD**       | <small>`True` or `False`</small>                                                    |
 | **AUTO_CLAIM_COMBO**        | <small>`True` or `False`</small>                                                    |
 | **AUTO_RANK_UPGRADE**       | <small>`True` or `False`</small>                                                    |
+| **USE_PROXY**               | <small>`True` or `False` (default False)</small>                                    |
 | **SLEEP_TIME**              | <small>Time each session sleeps after completing all actions `[21000, 32000]`</small> |
 
 
